@@ -12,7 +12,8 @@ title: Wenzheng Zhang
 author: Wenzheng Zhang
 
 # --- List of links in the navigation bar --- #
-
+navbar-links:
+  About Me: "aboutme"
 
 
 # --- Logo --- #
