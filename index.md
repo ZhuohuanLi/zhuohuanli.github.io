@@ -12,7 +12,7 @@ I am a PhD student at Rutgers University since Fall 2021. I'm fortunate to be ad
 
 #### [Understanding Hard Negatives in Noise Contrastive Estimation](https://aclanthology.org/2021.naacl-main.86.pdf)
 
-**Wenzheng Zhang**, Karl Stratos. NAACL 2021. [code](https://github.com/WenzhengZhang/hard-nce-el)
+**Wenzheng Zhang**, Karl Stratos. NAACL 2021. [[code](https://github.com/WenzhengZhang/hard-nce-el)]
 
 
 
