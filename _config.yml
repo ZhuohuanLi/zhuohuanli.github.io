@@ -35,8 +35,8 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: wz283@cs.rutgers.edu
-  github: https://github.com/WenzhengZhang
-  google-scholar: https://scholar.google.com/citations?hl=zh-CN&user=yWEhrEAAAAAJ
+  github: WenzhengZhang
+  google-scholar: citations?hl=zh-CN&user=yWEhrEAAAAAJ
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
