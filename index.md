@@ -8,7 +8,7 @@ I am a PhD student at Rutgers University since Fall 2021. I'm fortunate to be ad
 ## Publications
 #### [EntQA: Entity Linking as Question Answering](https://arxiv.org/pdf/2110.02369.pdf)
 
-**Wenzheng Zhang**, Wenyue Hua, Karl Stratos. ICLR 2022 <span style="color:green">some *Spotlight (top 5.2% = 176/3391 submissions)* text</span>.
+**Wenzheng Zhang**, Wenyue Hua, Karl Stratos. ICLR 2022 <span style="color:blue">some *Spotlight (top 5.2% = 176/3391 submissions)* text</span>.
 
 #### [Understanding Hard Negatives in Noise Contrastive Estimation](https://aclanthology.org/2021.naacl-main.86.pdf)
 
