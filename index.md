@@ -16,7 +16,8 @@ I am a PhD student at Rutgers University since Fall 2021. I'm fortunate to be ad
 
 ## Academic Internships
 #### **Microsoft Research**
-worked with [Dr. Chenyan Xiong](https://scholar.google.com/citations?user=E9BaEBYAAAAJ&hl=en) and [Arnold Overwijk](https://scholar.google.com/citations?user=zKiMGDgAAAAJ&hl=en)
+
+worked with [Dr. Chenyan Xiong](https://scholar.google.com/citations?user=E9BaEBYAAAAJ&hl=en) and [Arnold Overwijk](https://scholar.google.com/citations?user=zKiMGDgAAAAJ&hl=en), Jun 2022 -- Sep 2022
 
 
 
