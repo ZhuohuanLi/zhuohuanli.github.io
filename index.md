@@ -6,9 +6,13 @@ title: About Me
 I am a second-year PhD student at Rutgers University. I'm fortunate to be advised by [Prof. Karl Stratos](http://karlstratos.com/). I received M.S. in CS from Rutgers in Spring 2021. Prior to RU, I graduated from University of Science and Technology of China with a B.S. in Applied Physics.  My research interests are  Natural Language Processing, Machine Learning and Deep Learning. 
 
 ## Publications
+#### [Improving Multitask Retrieval by Promoting Task Specialization](http://karlstratos.com/papers/tacl23.pdf)
+
+**Wenzheng Zhang**, Chenyan Xiong, Karl Stratos, Arnold Overwijk. TACL 2023. [[code](https://github.com/WenzhengZhang/TACO)]
+
 #### [EntQA: Entity Linking as Question Answering](https://arxiv.org/pdf/2110.02369.pdf)
 
-**Wenzheng Zhang**, Wenyue Hua, Karl Stratos. ICLR 2022 <span style="color:olivegreen">*Spotlight (top 5.2% = 176/3391 submissions)* </span>. [[code](https://github.com/WenzhengZhang/EntQA)]
+**Wenzheng Zhang**, Wenyue Hua, Karl Stratos. ICLR 2022 <span style="color:olivegreen">*Spotlight* </span>. [[code](https://github.com/WenzhengZhang/EntQA)]
 
 #### [Understanding Hard Negatives in Noise Contrastive Estimation](https://aclanthology.org/2021.naacl-main.86.pdf)
 
