@@ -3,8 +3,7 @@ layout: home
 title: About Me
 ---
 
-I am a third-year PhD student at Rutgers University. I'm fortunate to be advised by [Prof. Karl Stratos](http://karlstratos.com/). I received M.S. in CS from Rutgers in Spring 2021. Prior to RU, I graduated from University of Science and Technology of China with a B.S. in Applied Physics.  My research interests are  Natural Language Processing, Machine Learning and Deep Learning. 
-
+I am a third-year PhD student at Rutgers University. I'm fortunate to be advised by [Prof. Karl Stratos](http://karlstratos.com/). I received M.S. in CS from Rutgers in Spring 2021. Prior to RU, I graduated from University of Science and Technology of China with a B.S. in Applied Physics.  My research broadly lies in Natural Language Processing. Currently, I have a tendency to delve into Knowledge-intensive Language Processing, Information Retrieval, and Coreference Resolution, but I remain open to exploring other facets within the NLP landscape.
 ## Publications
 #### [Seq2seq is All You Need for Coreference Resolution](https://openreview.net/forum?id=IhHB1l1mwp)
 
