@@ -25,7 +25,7 @@ I am a third-year PhD student at Rutgers University. I'm fortunate to be advised
 ## Academic Internships
 #### **Microsoft Research**
 
-worked with [Dr. Chenyan Xiong](https://scholar.google.com/citations?user=E9BaEBYAAAAJ&hl=en) and [Arnold Overwijk](https://scholar.google.com/citations?user=zKiMGDgAAAAJ&hl=en), Jun 2022 -- Sep 2022
+worked with [Prof. Chenyan Xiong](https://scholar.google.com/citations?user=E9BaEBYAAAAJ&hl=en) and [Arnold Overwijk](https://scholar.google.com/citations?user=zKiMGDgAAAAJ&hl=en), Jun 2022 -- Sep 2022
 
 
 
