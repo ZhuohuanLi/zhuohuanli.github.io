@@ -5,9 +5,9 @@ title: About Me
 
 I am a third-year PhD student at Rutgers University. I'm fortunate to be advised by [Prof. Karl Stratos](http://karlstratos.com/). I received M.S. in CS from Rutgers in Spring 2021. Prior to RU, I graduated from University of Science and Technology of China with a B.S. in Applied Physics.  My research broadly lies in Natural Language Processing. Currently, my research tends towards Knowledge-intensive Language Processing, Information Retrieval, and Coreference Resolution, but I remain open to exploring other facets within the NLP landscape.
 ## Publications
-#### [Seq2seq is All You Need for Coreference Resolution](https://openreview.net/forum?id=IhHB1l1mwp)
+#### [Seq2seq is All You Need for Coreference Resolution](https://karlstratos.com/papers/emnlp23coref.pdf)
 
-**Wenzheng Zhang**, Sam Wiseman, Karl Stratos. EMNLP 2023.
+**Wenzheng Zhang**, Sam Wiseman, Karl Stratos. EMNLP 2023. [[code](https://github.com/WenzhengZhang/Seq2seqCoref)]
 
 #### [Improving Multitask Retrieval by Promoting Task Specialization](https://arxiv.org/pdf/2307.00342.pdf)
 
