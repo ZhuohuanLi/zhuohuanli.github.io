@@ -29,6 +29,10 @@ I am a fourth-year PhD student at Rutgers University. I'm fortunate to be advise
 
 worked with [Prof. Chenyan Xiong](https://scholar.google.com/citations?user=E9BaEBYAAAAJ&hl=en) and [Arnold Overwijk](https://scholar.google.com/citations?user=zKiMGDgAAAAJ&hl=en), Jun 2022 -- Sep 2022
 
+
+
+#### **Meta FAIR**
+
 worked with [Dr. Mingda Chen](https://mingdachen.github.io/), [Dr. Scott Yih](https://scottyih.org/) and [Dr. Victoria Lin](https://victorialin.net/), May 2024 -- Current
 
 
