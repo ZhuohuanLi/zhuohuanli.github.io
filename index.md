@@ -3,7 +3,10 @@ layout: home
 title: About Me
 ---
 
-I am a third-year PhD student at Rutgers University. I'm fortunate to be advised by [Prof. Karl Stratos](http://karlstratos.com/). I received M.S. in CS from Rutgers in Spring 2021. Prior to RU, I graduated from University of Science and Technology of China with a B.S. in Applied Physics.  My research broadly lies in Natural Language Processing. Currently, my research tends towards Knowledge-intensive Language Processing, Information Retrieval, and Coreference Resolution, but I remain open to exploring other facets within the NLP landscape.
+I am a fourth-year PhD student at Rutgers University. I'm fortunate to be advised by [Prof. Karl Stratos](http://karlstratos.com/). I received M.S. in CS from Rutgers in Spring 2021. Prior to RU, I graduated from University of Science and Technology of China with a B.S. in Applied Physics.  My research broadly lies in Natural Language Processing. Currently, my research tends towards Retrieval Augmented Generation, Knowledge-intensive Language Processing, Information Retrieval, and Coreference Resolution, but I remain open to exploring other research directions. 
+
+**I am actively seeking research scientist or engineer roles. Please feel free to reach out if you'd like to discuss opportunities.**
+
 ## Publications
 #### [Seq2seq is All You Need for Coreference Resolution](https://arxiv.org/pdf/2310.13774.pdf)
 
@@ -25,6 +28,8 @@ I am a third-year PhD student at Rutgers University. I'm fortunate to be advised
 #### **Microsoft Research**
 
 worked with [Prof. Chenyan Xiong](https://scholar.google.com/citations?user=E9BaEBYAAAAJ&hl=en) and [Arnold Overwijk](https://scholar.google.com/citations?user=zKiMGDgAAAAJ&hl=en), Jun 2022 -- Sep 2022
+
+worked with [Dr. Mingda Chen](https://mingdachen.github.io/), [Dr. Scott Yih](https://scottyih.org/) and [Dr. Victoria Lin](https://victorialin.net/), May 2024 -- Current
 
 
 
