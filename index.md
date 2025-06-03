@@ -37,7 +37,7 @@ worked with [Prof. Chenyan Xiong](https://scholar.google.com/citations?user=E9Ba
 
 #### **Meta FAIR**
 
-worked with [Dr. Mingda Chen](https://mingdachen.github.io/), [Dr. Scott Yih](https://scottyih.org/) and [Dr. Victoria Lin](https://victorialin.net/), May 2024 -- Current
+worked with [Dr. Mingda Chen](https://mingdachen.github.io/), [Dr. Scott Yih](https://scottyih.org/) and [Dr. Victoria Lin](https://victorialin.net/), May 2024 -- Dec 2024
 
 
 
