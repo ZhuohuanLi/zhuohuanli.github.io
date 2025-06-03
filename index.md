@@ -7,7 +7,11 @@ I am a fourth-year PhD student at Rutgers University. I'm fortunate to be advise
 
 **I am actively seeking research scientist or engineer roles. Please feel free to reach out if you'd like to discuss opportunities.**
 
-## Publications
+## Papers
+#### ImpRAG: Retrieval-Augmented Generation with Implicit Queries
+
+**Wenzheng Zhang**, Xi Victoria Lin, Karl Stratos, Wen-tau Yih, Mingda Chen. In submission.
+
 #### [Seq2seq is All You Need for Coreference Resolution](https://arxiv.org/pdf/2310.13774.pdf)
 
 **Wenzheng Zhang**, Sam Wiseman, Karl Stratos. EMNLP 2023. [[code](https://github.com/WenzhengZhang/Seq2seqCoref)]
