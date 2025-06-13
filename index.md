@@ -48,7 +48,7 @@ I conduct extensive research on improving information retrieval (IR) and retriev
 **Wenzheng Zhang**, Karl Stratos. NAACL 2021. [[code](https://github.com/WenzhengZhang/hard-nce-el)]
 
 ## Academic Internships
-#### **Microsoft Research**
+#### **Microsoft**
 
 worked with [Prof. Chenyan Xiong](https://scholar.google.com/citations?user=E9BaEBYAAAAJ&hl=en) and [Arnold Overwijk](https://scholar.google.com/citations?user=zKiMGDgAAAAJ&hl=en), Jun 2022 -- Sep 2022
 
