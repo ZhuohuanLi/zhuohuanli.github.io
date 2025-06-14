@@ -9,7 +9,7 @@ I am a fourth-year PhD student at Rutgers University. I'm fortunate to be advise
 I explore how language models can better understand and resolve references to entities, both within text (coreference resolution) and against external knowledge bases (entity linking). My key contributions include:
 
 - **Entity Linking**: Reformulated entity linking as inverse open-domain QA—first retrieving candidate entities, then detecting mentions conditioned on each entity. This avoids the ill-defined nature of detecting mentions without entity context and offers a new paradigm for entity linking (**EntQA**).
-- **Coreference Resolution**: Proposed a simple and effective sequence-to-sequence model that generates coreference chains directly, avoiding complex span-based architectures and achieving state-of-the-art performance with minimal design effort (**Seq2Seq-Coref**).
+- **Coreference Resolution**: Proposed a simple and elegant sequence-to-sequence model that generates coreference information in the target sequence directly, avoiding span enumeration, pruning strategies, or complex model design, while achieving state-of-the-art performance (**Seq2Seq-Coref**).
 
 ## Information Retrieval and Retrieval-Augmented Generation
 I conduct extensive research on improving **information retrieval (IR)** and **retrieval-augmented generation (RAG)** for knowledge-intensive tasks. My key contributions include:
