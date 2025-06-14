@@ -6,7 +6,7 @@ title: About Me
 I am a fourth-year PhD student at Rutgers University. I'm fortunate to be advised by [Prof. Karl Stratos](http://karlstratos.com/). I received M.S. in CS from Rutgers in Spring 2021. Prior to RU, I graduated from University of Science and Technology of China with a B.S. in Applied Physics.  My research focuses on two closely connected areas in natural language processing: **Entity-Centric Language Understanding** and **Improving Information Retrieval and Retrieval-Augmented Generation**. I remain open to exploring other exciting and impactful research directions. 
 
 ## Entity-Centric Language Understanding
-I explore how language models can better understand and resolve references to entities, both within text (coreference resolution) and against external knowledge bases (entity linking). My key contributions include:
+I explore how language models can better understand and resolve references to entities, both within text (**coreference resolution**) and against external knowledge bases (**entity linking**). My key contributions include:
 
 - **Entity Linking**: Reformulated entity linking as inverse open-domain QA—first retrieving candidate entities, then detecting mentions conditioned on each entity. This avoids the ill-defined nature of detecting mentions without entity context and offers a new paradigm for entity linking (**EntQA**).
 - **Coreference Resolution**: Proposed a simple and elegant sequence-to-sequence model that generates coreference information in the target sequence directly, avoiding span enumeration, pruning strategies, or complex model design, while achieving state-of-the-art performance (**Seq2Seq-Coref**).
