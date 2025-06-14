@@ -21,11 +21,6 @@ I conduct extensive research on improving **information retrieval (IR)** and **r
 
 
 
-
-
-
-**I am actively seeking research scientist or engineer roles. Please feel free to reach out if you'd like to discuss opportunities.**
-
 ## Papers
 #### [ImpRAG: Retrieval-Augmented Generation with Implicit Queries](https://arxiv.org/pdf/2506.02279)
 
