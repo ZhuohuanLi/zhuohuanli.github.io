@@ -25,7 +25,7 @@ I explore how language models can better understand and resolve references to en
 ## Papers
 #### [ImpRAG: Retrieval-Augmented Generation with Implicit Queries](https://arxiv.org/pdf/2506.02279)
 
-**Wenzheng Zhang**, Xi Victoria Lin, Karl Stratos, Wen-tau Yih, Mingda Chen. In Submission.
+**Wenzheng Zhang**, Xi Victoria Lin, Karl Stratos, Wen-tau Yih, Mingda Chen. Findings of EMNLP 2025.
 
 #### [Seq2seq is All You Need for Coreference Resolution](https://arxiv.org/pdf/2310.13774.pdf)
 
