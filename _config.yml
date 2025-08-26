@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: Wenzheng Zhang
+title: Zhuohuan Li
 
 # Your name to show in the footer
-author: Wenzheng Zhang
+author: Zhuohuan Li
 
 # --- List of links in the navigation bar --- #
 navbar-links:
@@ -36,10 +36,10 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: wz283@cs.rutgers.edu
-  github: WenzhengZhang
-  google-scholar: citations?hl=zh-CN&user=yWEhrEAAAAAJ
-
+  email: zl253@scarletmail.rutgers.edu
+  github: Zhuohuan Li
+  google-scholar: https://scholar.google.com/citations?hl=en&user=6G5bD5gAAAAJ
+  
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
 rss-description: This website is a virtual proof that I'm awesome
