@@ -1,6 +1,6 @@
 ---
 layout: home
-title: About Me
+title: Zhuohuan Li's Personal Site
 ---
 
 I am a PhD student at Rutgers University, pursuing my degree in Electrical and Computer Engineering under the guidance of Professor Narayan Mandayam, with co-advisor N.K. Shankaranarayanan. My academic journey began at Rutgers, where I completed both my undergraduate and master's studies, focusing on advanced research in Wireless, Adversarial Attacks, Mobile Networks, and Next-Gen Energy Efficiency.
