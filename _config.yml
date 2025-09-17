@@ -38,7 +38,7 @@ round-avatar: true
 social-network-links:
   email: wz283@cs.rutgers.edu
   github: WenzhengZhang
-  google-scholar: citations?hl=zh-CN&user=yWEhrEAAAAAJ
+  google-scholar: citations?user=eho8mxoAAAAJ&hl=en&oi=ao
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
