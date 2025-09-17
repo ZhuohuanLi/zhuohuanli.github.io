@@ -23,10 +23,10 @@ repository               : "wenzhengzhang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "my_photo.JPG"
   name             : "Wenzheng Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate at Rutgers University"
+  bio              : "CS PhD Candidate at Rutgers University"
   location         : "New Brunswick, New Jersey"
   employer         : # "Rutgers University"
   uri              : # URL
