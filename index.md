@@ -1,25 +1,9 @@
 ---
 layout: home
-title: About Me
+title: Wenzheng Zhang
 ---
 
-I am a fourth-year PhD student at Rutgers University. I'm fortunate to be advised by [Prof. Karl Stratos](http://karlstratos.com/). I received M.S. in CS from Rutgers in Spring 2021. Prior to RU, I graduated from University of Science and Technology of China with a B.S. in Applied Physics.  My research focuses on two closely connected areas in natural language processing: **Information Retrieval and Retrieval-Augmented Generation** and **Entity-Centric Language Understanding**. I remain open to exploring other exciting and impactful research directions. 
-
-## Information Retrieval and Retrieval-Augmented Generation
-I conduct extensive research on improving **information retrieval (IR)** and **retrieval-augmented generation (RAG)** for knowledge-intensive tasks. My key contributions include:
-
-- **Theoretical Analysis of Hard Negatives in NCE**: Provided a theoretical understanding of the role of hard negatives in the Noise Contrastive Estimation (NCE) training objective for retrievers by showing that using hard negatives reduces the bias between the NCE approximation and the ideal cross-entropy loss computed over all candidates in the knowledge base (**Hard-NCE**).
-- **Multi-Label NCE for Multi-Target Retrieval**: Extended the standard NCE objective to a Multi-Label NCE formulation, enabling support for retrieval scenarios with multiple valid target candidates—such as entity-rich or multi-answer tasks—beyond traditional single-label setups.
-- **Multi-Task Retriever Training**: Developed multi-task training strategies to train a single retriever that performs well across diverse knowledge-intensive tasks by encouraging task specialization within the model.
-- **Unifying Retriever and Generator for RAG**: Unified retriever and generator by dividing decoder layers into specialized groups for joint optimization, enabling implicit query formulation and improving alignment between retrieval and generation (**ImpRAG**).
-
-
-## Entity-Centric Language Understanding
-I explore how language models can better understand and resolve references to entities, both within text (**coreference resolution**) and against external knowledge bases (**entity linking**). My key contributions include:
-
-- **Entity Linking**: Reformulated entity linking as inverse open-domain QA—first retrieving candidate entities, then detecting mentions conditioned on each entity. This avoids the ill-defined nature of detecting mentions without entity context and offers a new paradigm for entity linking (**EntQA**).
-- **Coreference Resolution**: Proposed a simple and elegant sequence-to-sequence model that generates coreference information in the target sequence directly, avoiding span enumeration, pruning strategies, or complex model design, while achieving state-of-the-art performance (**Seq2Seq-Coref**).
-
+I am a fourth-year PhD student at Rutgers University. I'm fortunate to be advised by [Prof. Karl Stratos](http://karlstratos.com/). I received M.S. in CS from Rutgers in Spring 2021. Prior to RU, I graduated from University of Science and Technology of China with a B.S. in Applied Physics.  My research focuses on two closely connected areas in natural language processing: **Knowledge-Intensive Language Processing** and **Entity-Centric Language Understanding**. I remain open to exploring other exciting and impactful research directions. 
 
 
 ## Papers
