@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Wenzheng Zhang
 ---
 
 I am a fourth-year PhD student at Rutgers University. I'm fortunate to be advised by [Prof. Karl Stratos](http://karlstratos.com/). I received M.S. in CS from Rutgers in Spring 2021. Prior to RU, I graduated from University of Science and Technology of China with a B.S. in Applied Physics.  My research focuses on two closely connected areas in natural language processing: **Knowledge-Intensive Language Processing** and **Entity-Centric Language Understanding**. I remain open to exploring other exciting and impactful research directions. 
