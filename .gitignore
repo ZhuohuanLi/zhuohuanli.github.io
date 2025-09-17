@@ -1,13 +1,20 @@
-# project
-_site
-.sass-cache
-.vagrant
+# Ignore the contents of the _site directory and other cache directories
+_site/
+.sass-cache/
 
-# general
-.DS_Store
-Thumbs.db
-ehthumbs.db
+# Ignore the directory for local files during development
+local/
 
+# Ignore the Gemfile that is generated
 Gemfile.lock
 
-beautiful-jekyll-theme-*.gem
+# Ignore files created by npm
+node_modules
+package-lock.json
+
+# Ignore the vendor file at root level and bundle for alternative installation
+/vendor/
+.bundle/
+
+# Ignore folders related to IDEs
+.vscode/
