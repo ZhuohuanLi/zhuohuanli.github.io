@@ -7,43 +7,35 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year PhD candidate at Rutgers University, where I am fortunate to be advised by [Prof. Karl Stratos](http://karlstratos.com/). I received my M.S. in Computer Science from Rutgers in Spring 2021, and prior to that, I earned a B.S. in Applied Physics from the University of Science and Technology of China in 2019.  
+I am a PhD student at Rutgers University, pursuing my degree in Electrical and Computer Engineering under the guidance of Professor Narayan Mandayam, with co-advisor N.K. Shankaranarayanan. My academic journey began at Rutgers, where I completed both my undergraduate and master's studies, focusing on advanced research in Wireless, Adversarial Attacks, Mobile Networks, and Next-Gen Energy Efficiency.
+
+At WINLAB, Rutgers University, I am actively involved in pioneering research projects. Collaborating with a diverse group of scholars and industry partners(NTIA, ATNT, EURECOM), I am dedicated to exploring and developing innovative technologies for next-generation communication systems. My research interests encompass low-power sensor hardware, end-to-end systems, and network optimization to enhance performance and reduce costs.
+
+Prior to my PhD, I developed a solid foundation in electrical and computer engineering at Rutgers, igniting my passion for unraveling the complexities of modern communication networks.
 
 Research Interests
 ======
-- Retrieval-Augmented Generation
-- Entity-Centric Language Understanding 
-
-I am also open to exploring new research directions and have recently become particularly interested in the reasoning capabilities of large language models (LLMs). 
+- Wireless Communication
+- 5G Energy Efficiency, O-RAN
+- Deep Learning
 
 Publications
 ======
-- [ImpRAG: Retrieval-Augmented Generation with Implicit Queries](https://arxiv.org/pdf/2506.02279)<br>
-**Wenzheng Zhang**, Xi Victoria Lin, Karl Stratos, Wen-tau Yih, Mingda Chen. <br>
-Findings of EMNLP 2025.
+Shankaranarayanan, N. K., Zhuohuan Li, Ivan Seskar, Prasanthi Maddala, Sarat Puthenpura, Alexandru Stancu, and Anurag Agarwal. "POET: A platform for O-RAN energy efficiency testing." In 2024 IEEE 100th Vehicular Technology Conference (VTC2024-Fall), pp. 1-5. IEEE, 2024.
 
-- [Seq2seq is All You Need for Coreference Resolution](https://arxiv.org/pdf/2310.13774.pdf) <br>
-**Wenzheng Zhang**, Sam Wiseman, Karl Stratos. <br>
-EMNLP 2023. [[code](https://github.com/WenzhengZhang/Seq2seqCoref)]
-
-- [Improving Multitask Retrieval by Promoting Task Specialization](https://arxiv.org/pdf/2307.00342.pdf)<br>
-**Wenzheng Zhang**, Chenyan Xiong, Karl Stratos, Arnold Overwijk.<br> 
-TACL 2023.[[code](https://github.com/WenzhengZhang/TACO)]
-
-- [EntQA: Entity Linking as Question Answering](https://arxiv.org/pdf/2110.02369.pdf)<br>
-**Wenzheng Zhang**, Wenyue Hua, Karl Stratos. <br>
-ICLR 2022 <span style="color:olivegreen">*Spotlight* </span>.[[code](https://github.com/WenzhengZhang/EntQA)]
-
-- [Understanding Hard Negatives in Noise Contrastive Estimation](https://aclanthology.org/2021.naacl-main.86.pdf)<br>
-**Wenzheng Zhang**, Karl Stratos. <br>
-NAACL 2021.[[code](https://github.com/WenzhengZhang/hard-nce-el)]
-
+Han, Y., Chan, M., Wengrowski, E., Li, Z., Tippenhauer, N.O., Srivastava, M., Zonouz, S. and Garcia, L., 2023. Why Don't You Clean Your Glasses? Perception Attacks with Dynamic Optical Perturbations. arXiv preprint arXiv:2307.13131.
 
 Experiences
 ======
-- Research Intern at Microsoft, Jun 2022 -- Sep 2022 <br>
-Worked with [Prof. Chenyan Xiong](https://scholar.google.com/citations?user=E9BaEBYAAAAJ&hl=en) and [Arnold Overwijk](https://scholar.google.com/citations?user=zKiMGDgAAAAJ&hl=en) on multi-task retrieval.
+- Research Intern at WINLAB, Rutgers University, Jun 2020 -- Aug 2020 <br>
+• Project: Self-Driving Vehicular Project
+• Assemble and train miniature autonomous vehicles to run in the miniature smart city environment.
+• Design and implement self-driving algorithms using machine learning libraries in python. 
+• Design behavior that will allow the vehicles to react realistically to other cars and props in the smart city environment, and work with the testbed infrastructure to use external data from the intersection to improve performance.
 
-- Research Intern at Meta FAIR, May 2024 -- Dec 2024<br>
-Worked with [Dr. Mingda Chen](https://mingdachen.github.io/), [Dr. Scott Yih](https://scottyih.org/) and [Dr. Victoria Lin](https://victorialin.net/) on query-free RAG.
+- Research Intern at WINLAB, Rutgers University, Jun 2021 -- Aug 2021 <br>
+• Project: Recognition of Radio Devices using Machine Learning
+• This project seeks to use machine learning to recognize different wireless devices. 
+• The project will use software defined radios (SDR) to record various devices, such as iPhone, bluetooth earbuds, and Wifi laptops. 
+• These recordings will become the training data to a set of neural networks. The second part of the project will quantify the accuracy of the neural networks in classifying various device types based on their RF signatures.
 
