@@ -16,11 +16,15 @@ Prior to my PhD, I developed a solid foundation in electrical and computer engin
 Research Interests
 ======
 - Wireless Communication
-- 5G Energy Efficiency, O-RAN
+- 5G Energy Efficiency, O-RAN, AI-RAN
 - Deep Learning
 
 Publications
 ======
+Li, Zhuohuan, Prasanthi Maddala, N. K. Shankaranarayanan, Ivan Seskar, Sarat Puthenpura, Alexandru Stancu, Christian Nunez Alvarez, and Gregg Albrecht. "Energy Efficiency Testing and Power Modeling of O-RAN Radio Units." In 2025 IEEE Future Networks World Forum (FNWF), pp. 1-6. IEEE, 2025.
+
+Shankaranarayanan, N. K., Akash Gupta, Zhuohuan Li, Sarat Puthenpura, Jens Sohn, Ivan Seskar, Sreenidhi Parthasarathy et al. "Energy Efficiency Testing and Modeling of a Commercial O-RAN System." arXiv preprint arXiv:2603.04435 (2026).
+
 Shankaranarayanan, N. K., Zhuohuan Li, Ivan Seskar, Prasanthi Maddala, Sarat Puthenpura, Alexandru Stancu, and Anurag Agarwal. "POET: A platform for O-RAN energy efficiency testing." In 2024 IEEE 100th Vehicular Technology Conference (VTC2024-Fall), pp. 1-5. IEEE, 2024.
 
 Han, Y., Chan, M., Wengrowski, E., Li, Z., Tippenhauer, N.O., Srivastava, M., Zonouz, S. and Garcia, L., 2023. Why Don't You Clean Your Glasses? Perception Attacks with Dynamic Optical Perturbations. arXiv preprint arXiv:2307.13131.
